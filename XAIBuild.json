@@ -1,6 +1,6 @@
 {
     "AppName": "XAI-DuelCore",
-    "AppVersion": "2.1.0",
+    "AppVersion": "2.2.0",
     "MainScript": "src/XAI-DuelCoreMain.py",
     "ConfigPath": "config/",
     "CfgFile": "installer.cfg",
