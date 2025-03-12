@@ -1,0 +1,13 @@
+{
+    "AppName": "XAI-DuelCore",
+    "AppVersion": "1.1.1",
+    "MainScript": "src/XAI-DuelCoreMain.py",
+    "ConfigPath": "config/",
+    "CfgFile": "installer.cfg",
+    "BaseUrl": "https://github.com/RedXDevelopment/Red-XAIPortal",
+    "Files": {
+        "add": ["src/new_script.py", "config/new_settings.json"],
+        "modify": ["src/XAI-DuelCoreMain.py"],
+        "delete": ["src/old_script.py"]
+    }
+}
